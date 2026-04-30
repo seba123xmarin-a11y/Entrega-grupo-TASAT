@@ -1,5 +1,6 @@
 # Entrega-grupo-TASAT
-Integrantes: Daniel Núñez , 
+Integrantes: Daniel Núñez 
+, 
 Victoria calderón,  
 Sebastian Marín,  
 Dominique Pincheira
